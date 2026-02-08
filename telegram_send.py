@@ -5,8 +5,8 @@
 Send text from .txt file to a private Telegram chat via Bot API.
 
 Usage:
-  export TG_BOT_TOKEN="8417908715:AAH79K1bYQLJEtPt0DT2hU_FDnzu3_gDdbU"
-  export TG_CHAT_ID="854452371"
+  export TG_BOT_TOKEN="..."
+  export TG_CHAT_ID="..."
 
   python telegram_send.py --file message.txt
 """
